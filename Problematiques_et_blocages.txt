@@ -1,0 +1,11 @@
+Difficulté 1 : Ne pas avoir travaillé sur ARFoundation auparavant (ARCore seul et Vuforia ont été utilisés en cours et dans mes expériences pro, mais pas ARFoundation)
+Solution : Se renseigner sur la documentation pour connaître les fonctions et adapter les méthodes déjà vues
+
+Problème 1 : Pas d'export possible sur mon smartphone
+Solution : Non trouvée
+Détails : Lors de l'export sur Androïd, l'application s'exporte correctement initialement, mais la caméra ne s'active pas. (les objets 3D apparaissent s'ils sont mis dans le champ de la caméra dans la scène)
+
+Pistes envisagées : 
+Version de Gradle (5.1.1 ne marche pas, MaJ vers 5.6.4 ne corrige pas le souci)
+Configuration du projet (configuration identique à celle du tutoriel fourni dans la documentation de ARFoundation)
+Compatibilité du smartphone (Samsung Galaxy S20 5G, compatible d'après la liste des appareils d'ARCore)
