@@ -1,7 +1,7 @@
 # BNM_Coding_test_TA
 Le code créé par Timothé Aumont pour le Coding test du 7 février 2022
 
-Les deux projets dans ce dossier sont indépendants.
+Les deux projets dans ce dossier sont indépendants et ont été développés pour un déploiement sur Androïd ou IOS.
 
 "Project" désigne l'exercice 1 de détection d'image
 
